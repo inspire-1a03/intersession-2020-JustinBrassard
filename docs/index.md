@@ -26,6 +26,9 @@ Replace the elements below to insert your picture.
 <!--
 ![Button Circuit](docs/images/IMG_20200520_192045.jpg)
 -->
+
+**My First Button Circuit**
+
 ![Button Circuit](images/IMG_20200520_192045.jpg)
 
 ## Day 2: Results
