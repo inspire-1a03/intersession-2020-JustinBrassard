@@ -9,23 +9,7 @@ Note that comments (such as this) will not appear in the final markdown document
 ## Day 1: Reflection
 
 Throughout my first day in the module electronics for the rest of us, we discussed various aspects connecting many concepts from programming through GitHub, to creating websites and using various commands to personalize our own website through coding. Generally, I am interested in taking this module as I do have past experience in python and JavaScript. My knowledge on using both of these programs is still at the beginner’s level as I have only taken a couple of courses online outside of school at McMaster University. I would really like to get more involved and improve my programing skills as it is something that has always interested me. I can in fact incorporate these skills in GIS, as this is in fact the path I am choosing to pursue in my future. I enjoy working on computers and I am always willing to expand my skills, hence why I chose to take this course. I also hope to take away various things from this. I hope to gather more computer programming skills as well as to incorporate these skills in the future. Having more introductory knowledge in programming will allow me more experience in order to proceed with my learning in the intermediate level. This will allow me to gain more certification and at the end of it all, who knows, I may just end up going back to school to get another degree in programming if I see it interests me more. This experience will truly allow me to see more then the few perspectives and programming methods that I have already learned. 
-<!--
-In this section, provide a ~250 word reflection on your first day of the module, and discuss why you're interested in this module and what you hope to take away from it.
 
-You're also asked to insert a photo that represents your accomplishments on your first day. 
-- Take a photo of you working or one of your circuits and upload it to the /docs/images/ folder of this repository. 
-- Then, insert your photo into your document by modifying the markdown example that has been inserted below.
--->
-
-<!--
-Inserting an image takes the form: 
-![image alt text](url/to/photo "Logo Title Text")
-See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
-Replace the elements below to insert your picture.
---> 
-<!--
-![Button Circuit](docs/images/IMG_20200520_192045.jpg)
--->
 
 **My First Button Circuit**
 
