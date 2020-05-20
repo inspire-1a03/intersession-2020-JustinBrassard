@@ -23,7 +23,10 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
+<!--
 ![Button Circuit](docs/images/IMG_20200520_192045.jpg)
+-->
+![Button Circuit](images/IMG_20200520_192045.jpg)
 
 ## Day 2: Results
 <!--
