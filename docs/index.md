@@ -1,4 +1,4 @@
-# Add your page title and name here
+# My Experience With Arduino and Circuits By: Justin Brassard
 <!--
 Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
 A place for each deliverable has been created below for you in this markdown document. 
@@ -23,7 +23,7 @@ Inserting an image takes the form:
 See the following webpage for more information: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 Replace the elements below to insert your picture.
 --> 
-![Button Circuit](IMG_20200520_192045.jpg "My First Button Circuit!")
+![Button Circuit](docs/images/IMG_20200520_192045.jpg)
 
 ## Day 2: Results
 <!--
