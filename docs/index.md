@@ -15,18 +15,18 @@ Throughout my first day in the module electronics for the rest of us, we discuss
 
 ![Button Circuit](images/IMG_20200520_192045.jpg)
 
+------------------------------------------------------------------------------------------------------------------------------
+
 ## Day 2: Results
 
 **Fully-Commented Ardruino Sketch**
 
+![RGB LED THERM CIRCUIT ARDRUINO](images/IMG_20200520_192045.jpg)
+
 
 **Code for Themistor and RGB LED**
-------------------------------------------------------------------------------------------------------------------------------
 
 
-
-
-------------------------------------------------------------------------------------------------------------------------------
 
 **Image of Themistor and RGB LED**
 
