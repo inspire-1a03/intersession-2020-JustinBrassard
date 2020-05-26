@@ -35,22 +35,12 @@ This is a simple circuit that uses RGB to power a light and make it switch colou
 
 **Image of My Circuit**
 
-![Build Off Circuit](/images/IMAGE RGBLED-THEMISTOR.jpg)
-
-<!--
-Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
-In ~300 words, provide a final device description and product pitch: 
-- What does it do? Use a table (created in markdown) to list and describe the features. You can use the template provided below. 
-- Describe briefly how it works.
-- How could it be used in everyday life (or maybe just in rare cases)? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
-- Include a snippet of code using the ``` ``` characters to display the code properly. 
-Finally, record a short (30 second) video of a 'product pitch' for your device. 
-- Upload the video to Youtube, and use the sample code below to embed your video.
--->
+![Build Off Circuit](/images/IMAGE RGBLED_THERM_BUZZ.jpg)
 
 
--->
+
+**Components of the Circuit**
+
 This is a table explaining each component within the build off project:
 
 |   Components     | Description |
