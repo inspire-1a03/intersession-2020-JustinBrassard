@@ -1,10 +1,4 @@
 # My Experience With Arduino and Circuits By: Justin Brassard
-<!--
-Welcome to your project page for Electronics for the Rest of Us. You'll use this page to describe and showcase your work throughout the module. 
-A place for each deliverable has been created below for you in this markdown document. 
-Note that comments (such as this) will not appear in the final markdown document (which you can view with the "Preview" button).
--->
-
 
 ## Day 1: Reflection
 
@@ -27,7 +21,7 @@ Throughout my first day in the module electronics for the rest of us, we discuss
 **Image of Themistor and RGB LED**
 
 
-![RGB LED THERM CIRCUIT](images/IMAGE RGBLED-THEMISTOR.jpg)
+![Second Circuit](/images/IMAGE RGBLED-THEMISTOR.jpg)
 
 This is a simple circuit that uses RGB to power a light and make it switch colours. There is also a second part attached to this. The thermistor measures the room temperature based off the way the program was coded. The thermistor calculates the temperature approximately every 5 seconds. As the temperature increases, the light turns red. As it descends, and gets below 20, it goes blue, an anywhere between 20 and 30 (Fahrenheit), the light will remain a green colour. The part that was challenging about this was combining the two different types of codes. It took various attempts with trial and error in order to know what parts to copy into the void setup and void loop sections in order to make it function properly. This circuit worked relatively well, and all code was very clear, although I had a common Cathode and therefore had to plug my final wire connecting to the light into the 5V port (Volts) rather than the ground to make it function. 
 
