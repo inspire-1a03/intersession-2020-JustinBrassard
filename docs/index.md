@@ -15,7 +15,7 @@ Throughout my first day in the module electronics for the rest of us, we discuss
 
 **Fully-Commented Ardruino Sketch**
 
-[Second Circuit](/images/IMAGE RGBLED-THEMISTOR.jpg)
+[Second Circuit](docs/RGB_LIGHT_WITH_THEMO.ino)
 
 
 **Image of Themistor and RGB LED**
