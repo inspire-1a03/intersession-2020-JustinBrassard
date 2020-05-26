@@ -39,7 +39,7 @@ Provide a short (~150 words) summary of your work on this circuit:
 
 **Fully-Commented Ardruino Sketch**
 
-[Ardruino Sketch 1](https://github.com/inspire-1a03/intersession-2020-JustinBrassard/blob/master/docs/RGB_LIGHT_WITH_THEMO.ino)
+[Ardruino Sketch for the BUILD - OFF](https://github.com/inspire-1a03/intersession-2020-JustinBrassard/blob/master/docs/RGB_LIGHT_THERMI_BUZZ.ino)
 
 
 <!--
