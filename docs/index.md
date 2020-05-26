@@ -36,6 +36,12 @@ Provide a short (~150 words) summary of your work on this circuit:
 -->
 
 ## Arduino build-off results
+
+**Fully-Commented Ardruino Sketch**
+
+[Ardruino Sketch 1](https://github.com/inspire-1a03/intersession-2020-JustinBrassard/blob/master/docs/RGB_LIGHT_WITH_THEMO.ino)
+
+
 <!--
 Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
 In ~300 words, provide a final device description and product pitch: 
