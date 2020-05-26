@@ -37,7 +37,7 @@ This is a simple circuit that uses RGB to power a light and make it switch colou
 
 ![Build Off Circuit](/images/IMAGE RGBLED_THERM_BUZZ.jpg)
 
-
+This product combines the majority of the concepts that we learned throughout the week. It is a device that will signal the user if the temperature in the room is too high, low, or at the right temperature using different sound frequencies and colours to represent each aspect needing to be depicted. The template shown below describes what each of the component’s roles are within this circuit.  Putting this somewhat seeming complex circuit into an easier explanation, the thermistor detects the temperature of the room. Based off the temperature that is detected by this sensor, the RGB LED lights will either be green if the temperature in the room is recorded to be between 20 and 30 Fahrenheit, Red is it above 30, and Blue if it gets below 20. Along with the sensor allowing the light to switch colours, the buzzer would also make different pitched sounds if the temperature went above the required range or below it (20-30 degrees). A higher pitched sound was coded for the temperature above the range and a lower one for below in order to differentiate the two from one another. This could be used in everyday life if your AC unit at home ever breaks down and the temperature gauge cannot detect the temperature anymore. This could be linked to something of this nature in order to signal it to start and stop based off the temperature calculated by the thermistor. In a rarer case, this could be used within a car. This would have to be at a much larger scale, although it could help detect the temperature for the engine of a car. If it overheats, or gets too hot, it would essentially make a sound. In this case, the cold factor could be eliminated as a cold engine just means it has perhaps been sitting for a while. These are some examples of some cases in which this device could be used.
 
 **Components of the Circuit**
 
@@ -50,14 +50,6 @@ This is a table explaining each component within the build off project:
 |     Buzzer       |             |
 
 
-
-<!--
-Below is an example of embedding a YouTube video in a markdown document for use in GitHub pages. 
-Note that this video won't show when previewing the document in GitHub--it only works on the GitHub pages webpage. 
-- Once your YouTube video is uploaded, right click and select ```<> Copy embed code```. 
-- You can paste this code directly into your markdown document. 
-- Note that you may want to adjust the width and height parameters to make it fit well in your webpage
--->
 
 <iframe width="648" height="365" src="https://www.youtube.com/embed/EZL8S-n6DTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
