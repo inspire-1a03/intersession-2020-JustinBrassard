@@ -99,7 +99,6 @@ void loop()
 
   if(temp > 30){
   setColor(255, 0, 0);  // red
-  tone(8, 262, 1000);
   }
   else if(temp > 20 & temp < 30){
   setColor(0, 255, 0);  // green
