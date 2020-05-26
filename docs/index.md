@@ -25,15 +25,7 @@ Throughout my first day in the module electronics for the rest of us, we discuss
 
 This is a simple circuit that uses RGB to power a light and make it switch colours. There is also a second part attached to this. The thermistor measures the room temperature based off the way the program was coded. The thermistor calculates the temperature approximately every 5 seconds. As the temperature increases, the light turns red. As it descends, and gets below 20, it goes blue, an anywhere between 20 and 30 (Fahrenheit), the light will remain a green colour. The part that was challenging about this was combining the two different types of codes. It took various attempts with trial and error in order to know what parts to copy into the void setup and void loop sections in order to make it function properly. This circuit worked relatively well, and all code was very clear, although I had a common Cathode and therefore had to plug my final wire connecting to the light into the 5V port (Volts) rather than the ground to make it function. 
 
-
-<!--
-Upload your fully-commented Arduino sketch from your final Day 2 build task--a thermometer connected to an RDB LED--into your GitHub repository.
-Provide a short (~150 words) summary of your work on this circuit:
-- How does your device work?
-- What was challenging? 
-- What worked? What didn't? 
-- Be sure to link to your code (in your GitHub repository) in the text of your response.
--->
+------------------------------------------------------------------------------------------------------------------------------
 
 ## Arduino build-off results
 
@@ -55,18 +47,15 @@ Finally, record a short (30 second) video of a 'product pitch' for your device.
 -->
 
 
-<!--
-Below is a general markdown table template. 
-You can find more information at these links: 
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
-
 -->
-| Feature | Description | Other Notes |
-|---------|-------------|-------------|
-|         |             |             |
-|         |             |             |
-|         |             |             |
-|         |             |             |
+This is a table explaining each component within the build off project:
+
+|   Components     | Description |
+|------------------|-------------|
+|   Thermistor     |             |
+|    RGB LED       |             |
+|     Buzzer       |             |
+
 
 
 <!--
