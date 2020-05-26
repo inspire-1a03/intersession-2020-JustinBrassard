@@ -45,9 +45,9 @@ This is a table explaining each component within the build off project:
 
 |   Components     | Description |
 |------------------|-------------|
-|   Thermistor     |             |
-|    RGB LED       |             |
-|     Buzzer       |             |
+|   Thermistor     | Detects the room temperature using a sensor|
+|    RGB LED       | Turns different colours based off the temperature in the room (30 + = Red, 20-30 = Green, 20 - = Blue)|
+|     Buzzer       | Creates different pitches of sound when the temperature goes above or below the set required|
 
 
 
