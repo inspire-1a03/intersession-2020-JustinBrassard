@@ -33,6 +33,9 @@ This is a simple circuit that uses RGB to power a light and make it switch colou
 
 [Ardruino Sketch for the BUILD - OFF](https://github.com/inspire-1a03/intersession-2020-JustinBrassard/blob/master/docs/RGB_LIGHT_THERMI_BUZZ.ino)
 
+**Image of My Circuit**
+
+![Build Off Circuit](/images/IMAGE RGBLED-THEMISTOR.jpg)
 
 <!--
 Upload your fully-commented Arduino sketch from the final product of your Arduino build-off into the top-level of your module GitHub repository.
