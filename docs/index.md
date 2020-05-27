@@ -53,9 +53,8 @@ This is a table explaining each component within the build off project:
 
 <iframe width="648" height="365" src="https://www.youtube.com/embed/EZL8S-n6DTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+------------------------------------------------------------------------------------------------------------------------------
+
 ## Final reflection & summary
-<!--
-In ~300 words:
-- Summarize your experience in this module. What you learned, what you liked, what you found challenging.
-- Reflect upon your learning and its relevance in your life.
--->
+
+Before this week, I had previously come into this module with little experience in Python and JavaScript due to my aspired career path in GIS. Within this program, coding is often used to assist users in creating easier map interfaces to analyze data. By learning the basics of Arduino throughout the week, along with how to build simple circuits, I have expanded my knowledge to learn another platform and connect real life scenarios in application with my circuits. I had a tiny bit of knowledge on the bread board previously, although I had never really applied components such as the Thermistor, or the buzzer to the board before. I loved the fact that this course allowed me to explore and learn to build circuits along with having lots of support from the professor. Having an experienced hand in order to help you not only solve your problem, but understand it is key in being successful especially when it comes to something as complex as programming. I have now learned to completely put together and program a circuit myself by combining various aspects not only through the Arduino board itself, but through code as well. I personally found that this course moved at the perfect pace and allowed me to learn a good level of beginner knowledge in Arduino. Although the challenging part to this was that the new concepts did have to be learned in such a short period of time. Although, consistent feedback and assistance through Microsoft teams was provided to help with this. This was generally an amazing experience, as I expanded my coding knowledge and I hope to take more courses that have a similar style to this one.
